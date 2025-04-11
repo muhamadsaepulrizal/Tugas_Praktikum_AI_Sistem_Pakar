@@ -1,2 +1,2 @@
-# Tugas_Praktikum_AI_Sistem_Pakar
-Muhamad Saepul Rizal 2306142
+# Muhamad Saepul Rizal 2306142
+Tugas Parktikum Materi Sistem pakar (Forward Chaining & Backward Chaining)
